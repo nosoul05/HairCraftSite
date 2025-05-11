@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "HairCraftgit",
   "resources": {
-    "hash": "sha256-LO2MBjWEbj/SPU7SNF1hdDWQLSKmxexLzqrom2u/NuU=",
+    "hash": "sha256-ivFp4p26T9SFIGh9BLaHVh9KiWPyEvgU4vOa8UVKDdo=",
     "fingerprinting": {
       "HairCraftgit.ht2zv82r11.wasm": "HairCraftgit.wasm",
       "Microsoft.AspNetCore.Authorization.miumi3x3d4.wasm": "Microsoft.AspNetCore.Authorization.wasm",
@@ -49,8 +49,8 @@
       "System.Text.Json.974zhhdw3t.wasm": "System.Text.Json.wasm",
       "System.Text.RegularExpressions.gjrc7fe0iy.wasm": "System.Text.RegularExpressions.wasm",
       "System.f0fr8djds0.wasm": "System.wasm",
-      "dotnet.native.dq1vxgpmr2.js": "dotnet.native.js",
-      "dotnet.native.4n74sbigox.wasm": "dotnet.native.wasm",
+      "dotnet.native.87zpq5s0ln.js": "dotnet.native.js",
+      "dotnet.native.hzqgi6ulz2.wasm": "dotnet.native.wasm",
       "dotnet.js": "dotnet.js",
       "dotnet.runtime.cymp1amu5g.js": "dotnet.runtime.js",
       "icudt_CJK.tjcz0u77k5.dat": "icudt_CJK.dat",
@@ -58,13 +58,13 @@
       "icudt_no_CJK.lfu7j35m59.dat": "icudt_no_CJK.dat"
     },
     "jsModuleNative": {
-      "dotnet.native.dq1vxgpmr2.js": "sha256-hSuTu9TByRwwPeDK/g5UsXWsI1BFiGg56mXf/9+abkg="
+      "dotnet.native.87zpq5s0ln.js": "sha256-jDO3uzvBVzr3/fBMCwYEVplyZN9FzbOHcTmXMeso3Tc="
     },
     "jsModuleRuntime": {
       "dotnet.runtime.cymp1amu5g.js": "sha256-dCmS9Zx4egtLYSUgTI3R6gMS+Yg8MkzxW1CgEMJKAEw="
     },
     "wasmNative": {
-      "dotnet.native.4n74sbigox.wasm": "sha256-sMcERT1AApc9z13I/52hQiWD7p4Kq5mZdmQT6nFIRXI="
+      "dotnet.native.hzqgi6ulz2.wasm": "sha256-nTZjU3rnI5FjK5vGwfN+phwiw0u62DwzbMNpLKMfeYA="
     },
     "icu": {
       "icudt_CJK.tjcz0u77k5.dat": "sha256-SZLtQnRc0JkwqHab0VUVP7T3uBPSeYzxzDnpxPpUnHk=",
@@ -72,6 +72,10 @@
       "icudt_no_CJK.lfu7j35m59.dat": "sha256-L7sV7NEYP37/Qr2FPCePo5cJqRgTXRwGHuwF5Q+0Nfs="
     },
     "coreAssembly": {
+      "System.Private.CoreLib.zfzktmma2c.wasm": "sha256-kdrTicun7IDeqLUgsCq2FoX2HN9v1qstUuFqVq71L/Y=",
+      "System.Runtime.InteropServices.JavaScript.era55l3sbb.wasm": "sha256-uo4WQ39eiOB+w/weMzCVCfXQey09VlzpTm+e6aR83IA="
+    },
+    "assembly": {
       "HairCraftgit.ht2zv82r11.wasm": "sha256-+4cjA7enaLbKWvphtv+OEGjl3pfM9fjA8qmNEeqTfaw=",
       "Microsoft.AspNetCore.Authorization.miumi3x3d4.wasm": "sha256-/lGmebPvAOERloWb4kB6LJdjVdLjF71fUwNgu0VAi2I=",
       "Microsoft.AspNetCore.Components.Authorization.8opvz6k3s7.wasm": "sha256-uG4XWSSP9kIg8r3RPNVemhR1aJCGsdo/aEXyUKLcPa4=",
@@ -109,17 +113,14 @@
       "System.Net.Http.m2vfqk9fxt.wasm": "sha256-DsUsF2LFi8AkzPDo4fyepMBsLxZnpvq1yoKzJr4Q870=",
       "System.Net.Primitives.9x72ktbyas.wasm": "sha256-nezaQh05iG5l4rQswqNPl/zET8UwMn5b44CpxdCrhyQ=",
       "System.ObjectModel.wgm2i2b0yp.wasm": "sha256-wNfPvrHDu12m8nAsDGzNZQk23FT+Jj3h9Ewtkzk8Yuc=",
-      "System.Private.CoreLib.zfzktmma2c.wasm": "sha256-kdrTicun7IDeqLUgsCq2FoX2HN9v1qstUuFqVq71L/Y=",
       "System.Private.Uri.8y50o51agb.wasm": "sha256-4AU68QQv5b7YsMnC1zAD4xscW2QqSDmVhFH/Q/NHApw=",
-      "System.Runtime.InteropServices.JavaScript.era55l3sbb.wasm": "sha256-uo4WQ39eiOB+w/weMzCVCfXQey09VlzpTm+e6aR83IA=",
       "System.Runtime.mxekgpzirt.wasm": "sha256-ZrPeiZVYG0XIPbk59HoaYi7dfq5TbNFeYKEViqCaqSE=",
       "System.Security.Claims.grubpgdwlv.wasm": "sha256-hMbf79gRw3zVIG/W0DQo6gbimVzhMS2oo529sRmZLRw=",
       "System.Text.Encodings.Web.5w28q6ifw5.wasm": "sha256-pdKoJJI3yt1NF2Lx1MGO++1RtPSzree8qeWFFtJOnKo=",
       "System.Text.Json.974zhhdw3t.wasm": "sha256-+5pLTbImE1zg2OD+bVRuZPHUGhkjzGwnJ7o/gdYUyg8=",
       "System.Text.RegularExpressions.gjrc7fe0iy.wasm": "sha256-bPlopc5D66ZLknzJ5PcpsBvpXxGmy7xL7+4gm/cjTdc=",
       "System.f0fr8djds0.wasm": "sha256-v1DeJU321NUwk3KJ0Lf8lQA3zwRfrxNommmMBs1s3Gk="
-    },
-    "assembly": {}
+    }
   },
   "cacheBootResources": true,
   "debugLevel": 0,
